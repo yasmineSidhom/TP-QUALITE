@@ -1,0 +1,54 @@
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\ApplicationInsights.config
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\TP3 Qualite.dll.config
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\TP3 Qualite.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\TP3 Qualite.pdb
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Antlr3.Runtime.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\EntityFramework.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\EntityFramework.SqlServer.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.Web.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Newtonsoft.Json.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Helpers.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Mvc.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Optimization.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Razor.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.WebPages.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\WebGrease.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\EntityFramework.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\EntityFramework.SqlServer.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Helpers.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Mvc.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Optimization.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.Razor.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.WebPages.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Antlr3.Runtime.pdb
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Newtonsoft.Json.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\Microsoft.AI.Web.xml
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\EntityFramework.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\obj\Debug\TP3 Qualite.csprojResolveAssemblyReference.cache
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\obj\Debug\TP3 Qualite.csproj.CoreCompileInputs.cache
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\obj\Debug\TP3 Qualite.dll
+C:\Users\Yasmine\Source\Repos\TP3 Qualite\TP3 Qualite\obj\Debug\TP3 Qualite.pdb
